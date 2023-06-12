@@ -1,8 +1,8 @@
 <script setup>
 	const messages = ref([
 		{
-			role: 'AI',
-			message: 'Hello! How can I help you?'
+			role: 'Alex',
+			message: 'Hey, schön das du hier bist. Wie kann ich dir helfen ?'
 		}
 	]);
 	const loading = ref(false);
